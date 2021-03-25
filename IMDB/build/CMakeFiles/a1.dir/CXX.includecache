@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/movie.hpp
+iostream
+-
+cctype
+-
+stdexcept
+-
+random
+-
+cstring
+-
+ctime
+-
+iomanip
+-
+
+/media/alizeinodin/18FCC3D7FCC3ACF6/College/Barname Sazi Pishrafte/code/Tamrin1/src/movie.cpp
+movie.hpp
+/media/alizeinodin/18FCC3D7FCC3ACF6/College/Barname Sazi Pishrafte/code/Tamrin1/src/movie.hpp
+

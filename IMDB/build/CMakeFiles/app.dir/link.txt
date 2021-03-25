@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/app.dir/media/alizeinodin/18FCC3D7FCC3ACF6/College/Barname_Sazi_Pishrafte/code/Tamrin1/src/main.cpp.o CMakeFiles/app.dir/media/alizeinodin/18FCC3D7FCC3ACF6/College/Barname_Sazi_Pishrafte/code/Tamrin1/src/movie.cpp.o CMakeFiles/app.dir/media/alizeinodin/18FCC3D7FCC3ACF6/College/Barname_Sazi_Pishrafte/code/Tamrin1/src/func.cpp.o  -o app 
