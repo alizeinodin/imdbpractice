@@ -360,7 +360,7 @@ void order_adjust(string &select)
 }
 // navigator and separator of program
 // -----------------------------
-void Command_Separator(string select, Movie *&array, int &n)
+void Command_Separator(string & select, Movie *&array, int &n)
 {
     order_adjust(select);
 
