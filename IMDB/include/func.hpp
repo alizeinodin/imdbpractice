@@ -11,7 +11,7 @@ void help();
 bool checkmovie(std::string, Movie *, int, int &); // check for available movie's in list
 void score_details(std::string, Movie*, int &); 
 void order_adjust(std::string &);
-void Command_Separator(std::string, Movie * &, int &);
+void Command_Separator(std::string &, Movie * &, int &);
 bool help_sort(Movie * & array, std::string select, int j); // passing this funcion to sort_by for sorting by name's or score's
 
 #endif // !FUNK_H
